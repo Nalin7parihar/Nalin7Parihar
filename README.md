@@ -7,54 +7,47 @@
 
 ---
 
-## 🚀 My Tech Stack
+## 🛠️ Tech Stack & Tools
+This is the set of technologies I use to bring projects to life.
 
-I'm proficient with a variety of modern technologies to bring ideas to life.
+### 💻 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+</p>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4 align="center">Languages</h4>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript"></a>
-        <a href="#"><img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript"></a>
-        <a href="#"><img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python"></a>
-        <a href="#"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"></a>
-      </p>
-    </td>
-    <td valign="top" width="50%">
-      <h4 align="center">Frontend</h4>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React"></a>
-        <a href="#"><img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"></a>
-        <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h4 align="center">Backend</h4>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white" alt="Node.js"></a>
-        <a href="#"><img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=flat&logo=express&logoColor=white" alt="Express.js"></a>
-        <a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"></a>
-      </p>
-    </td>
-    <td valign="top" width="50%">
-      <h4 align="center">Databases & Platforms</h4>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"></a>
-        <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
-        <a href="#"><img src="https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black" alt="Firebase"></a>
-      </p>
-    </td>
-  </tr>
-</table>
+### 🌐 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+</p>
+
+### ⚙️ Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</p>
+
+### 🛢️ Databases & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
+
+### 🛠️ Tools & Version Control
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
 ---
 
 ## 🌐 Let's Connect
-
 I'm always open to connecting with fellow developers, discussing new ideas, or exploring potential collaborations. Feel free to reach out!
 
 <p align="center">
@@ -72,12 +65,10 @@ I'm always open to connecting with fellow developers, discussing new ideas, or e
 ---
 
 ## 📊 My GitHub Stats & Activity
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nalin7parihar&theme=radical&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=Nalin7parihar&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nalin7parihar&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 <p align="center">
