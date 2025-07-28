@@ -16,6 +16,7 @@ This is the set of technologies I use to bring projects to life.
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C"/>
 </p>
 
 ### 🌐 Frontend
@@ -57,16 +58,12 @@ I'm always open to connecting with fellow developers, discussing new ideas, or e
   <a href="https://leetcode.com/u/Coder_Sasuke/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="50" />
   </a>
-  <a href="mailto:nalin7parihar@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="40" width="50" />
-  </a>
 </p>
 
 ---
 
 ## 📊 My GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nalin7parihar&theme=radical&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=Nalin7parihar&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nalin7parihar&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
