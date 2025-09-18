@@ -1,10 +1,8 @@
 <h1 align="center">Hello 👋, I'm Nalin Parihar</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **MERN stack, real-time applications and LLM integration.** 
-  
+- 🔭 I’m currently working on **MERN stack, real-time applications and LLM integration.**
 - 💬 Ask me about **Full Stack Development**
-
 - 📫 How to reach me **nalin7parihar@gmail.com**
 
 # 💻 Tech Stack:
@@ -31,8 +29,7 @@
 
 ## 🏅 Achievements :
 ### 🏆 GitHub Trophies
-![Nalin's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Nalin7parihar&theme=radical&hide_border=true)
-
+![](https://github-profile-trophy.vercel.app/?username=Nalin7parihar&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,12 +38,10 @@
 </p>
 
 # 📊 GitHub Stats:
-![Nalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nalin7parihar&theme=radical&hide_border=true&include_all_commits=false&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nalin7parihar&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nalin7parihar&theme=radical)
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nalin7parihar&theme=radical)
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nalin7parihar&theme=radical&utcOffset=8)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nalin7parihar&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Nalin7parihar GitHub Stats" />
+<p align="center">
+  <img src="https://github.com/Nalin7parihar/Nalin7Parihar/blob/main/github-metrics.svg" alt="Nalin Parihar's GitHub Metrics" />
+</p>
+
 
 ## 📈 Contribution Graph
 [![Nalin's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nalin7parihar&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
