@@ -32,12 +32,7 @@
 ## 🏅 Achievements :
 ### 🏆 GitHub Trophies
 ![Nalin's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Nalin7parihar&theme=radical&hide_border=true)
-![Nalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nalin7parihar&theme=radical&hide_border=true&include_all_commits=false&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nalin7parihar&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nalin7parihar&theme=radical)
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nalin7parihar&theme=radical)
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nalin7parihar&theme=radical&utcOffset=8)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nalin7parihar&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Nalin7parihar GitHub Stats" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,7 +41,12 @@
 </p>
 
 # 📊 GitHub Stats:
-![Metrics](https://github.com/Nalin7parihar/Nalin7parihar/blob/main/metrics.svg)
+![Nalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nalin7parihar&theme=radical&hide_border=true&include_all_commits=false&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nalin7parihar&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nalin7parihar&theme=radical)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nalin7parihar&theme=radical)
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nalin7parihar&theme=radical&utcOffset=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nalin7parihar&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Nalin7parihar GitHub Stats" />
 
 ## 📈 Contribution Graph
 [![Nalin's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nalin7parihar&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
